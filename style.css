@@ -60,7 +60,7 @@ body {
     align-items: center;
     width: 100vw; 
     height: 100vh;
-    background-color: var(--pale-blue);
+    background-color: var(--White);
 }
 
 p {
@@ -70,8 +70,7 @@ p {
 
 .main {
     background-color: var(--White);
-
-
+    box-shadow: 2px 2px 20px 0 rgba(0, 0, 0, 0.1);
 }
 
 .scoreContainer {
